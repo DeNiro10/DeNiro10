@@ -10,7 +10,7 @@
 ## 🚀 Habilidades  
 
 ### ☁️ Cloud & Infraestrutura  
-🌩️ AWS | 🔷 Azure | 🔴 OCI | 🐧 Linux | 🌐 Redes  
+ AWS | Azure | OCI | Linux | Redes  
 
 ### 🛠️ Infra as Code & GitOps  
 📜 Terraform | 🚀 ArgoCD | ⛵ Helm  
