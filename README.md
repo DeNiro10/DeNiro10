@@ -47,7 +47,7 @@
 
 ## 📫 Onde me encontrar  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/robertoliveira)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/robertdanilosoares/)  
 - 📧 **robertdanilo63@gmail.com**  
 - 🐙 [GitHub](https://github.com/DeNiro10)  
 
