@@ -13,28 +13,28 @@
  AWS | Azure | OCI | Linux | Redes  
 
 ### 🛠️ Infra as Code & GitOps  
-📜 Terraform | 🚀 ArgoCD | ⛵ Helm  
+ Terraform |  ArgoCD |  Helm  
 
 ### 🐳 Containers & Orquestração  
-🐳 Docker | ☸️ Kubernetes  
+ Docker |  Kubernetes  
 
 ### ⚙️ CI/CD & Automação  
-⚡ GitHub Actions | 🔧 Jenkins | 🤖 Ansible | 🖥️ Bash | 🐍 Python  
+ GitHub Actions |  Jenkins |  Ansible |  Bash |  Python  
 
 ### 🔍 Observabilidade & SRE  
-📊 Prometheus | 📈 Grafana | 🕵 Splunk | 🧩 ELK Stack  
+ Prometheus |  Grafana |  Splunk |  ELK Stack  
 
 ### 🔐 Segurança & FinOps  
-🛡️ OPA (Policy as Code) | 🔑 IAM | 💰 FinOps  
+ OPA (Policy as Code) |  IAM |  FinOps  
 
 ---
 
 ## 📌 Projetos em Destaque  
 
-- 🔒 **AWS Snapshot Encryptor** – Script para criptografia de snapshots, cópia de tags e exclusão de AMIs antigas.  
-- 📦 **Inventory App** – Aplicação de inventário em **Docker**.  
-- ☁️ **Infraestrutura como Código** – Templates **Terraform** para **AWS**, **Azure** e **OCI**.  
-- ⚡ **CI/CD com GitHub Actions** – Pipeline completo para aplicações containerizadas.  
+-  **AWS Snapshot Encryptor** – Script para criptografia de snapshots, cópia de tags e exclusão de AMIs antigas.  
+-  **Inventory App** – Aplicação de inventário em **Docker**.  
+-  **Infraestrutura como Código** – Templates **Terraform** para **AWS**, **Azure** e **OCI**.  
+-  **CI/CD com GitHub Actions** – Pipeline completo para aplicações containerizadas.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 ## 📫 Onde me encontrar  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/robertdanilosoares/)  
-- 📧 **robertdanilo63@gmail.com**  
-- 🐙 [GitHub](https://github.com/DeNiro10)  
+-  [LinkedIn](https://www.linkedin.com/in/robertdanilosoares/)  
+-  **robertdanilo63@gmail.com**  
+-  [GitHub](https://github.com/DeNiro10)  
 
 ---
 
