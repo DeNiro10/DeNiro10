@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Robert Oliveira  
 
-💻 Analista de Infraestrutura no **Magalu Bank**  
-☁️ Especialista em **Cloud, DevOps e SRE**  
+💻 Platform Engineer at **CloudWalk**  
+☁️ **Cloud, DevOps e SRE** Specialist   
 🔐 Foco em **infraestruturas escaláveis, seguras e automatizadas**  
 🚀 Transformo ambientes complexos em soluções simples e resilientes
 
